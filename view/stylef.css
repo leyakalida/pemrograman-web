@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+    background: #F9C5D5
+}
+.div{
+    text-align: center;
+    text-transform: uppercase;
+}
+.form{
+    width: 350px;
+    border: 1px solid black;
+    position: absolute;
+    padding: 30px 20px;
+    top: 40%;
+    left: 50%;
+    text-align: center;
+    border-radius: 15px;
+    background: #FEE3EC;
+    transform: translate(-50%, -50%);
+}
+.input{
+    margin-bottom: 8px;
+    padding: 5px;
+    font-size: 11pt;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.submit{
+    background: #F999B7;
+    color:black;
+    font-size: 10pt;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 3px;
+}
